@@ -1,0 +1,32 @@
+p {
+    color: yellow;
+    size: 15px;
+    text-align: center;
+}
+h1 {
+    size: 25px;
+    border: 2px solid lightblue; 
+    border-radius: 5px;
+    text-align: center; 
+}
+h2 {
+    size: 20px;
+    border: 2px solid red; 
+    border-radius: 5px; 
+    text-align: center; 
+}
+a {
+    color: green;
+    border: seashell;
+    size: 15px;
+    text-align: center;
+}
+body { 
+    background: url('/hw-arpan/wesley-tingey-mvLyHPRGLCs-unsplash.jpg');
+}
+header {
+    size: 40px;
+    border: 2px solid red; 
+    border-radius: 4px;
+    text-align: center;
+}
